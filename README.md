@@ -1,4 +1,4 @@
-### Hi there 👋
+![hugumoraes's stats](https://github-readme-stats.vercel.app/api?username=hugumoraes&show_icons=true&theme=radical&hide=contribs,prs)
 
 <!--
 **hugumoraes/hugumoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
